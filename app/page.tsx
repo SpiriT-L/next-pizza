@@ -1,5 +1,4 @@
-import { Container, Filters, Title } from '@/components/shared';
-import { TopBar } from '@/components/shared/top-bar';
+import { Container, Filters, Title, TopBar } from '@/components/shared';
 
 export default function Home() {
   return (
